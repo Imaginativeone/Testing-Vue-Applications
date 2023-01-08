@@ -1,0 +1,16 @@
+☐ Sketch out the table of contents
+☐ Testing Vue Applications
+  ☐ Chapter 01 - 001 018 18 3 Introduction to testing Vue applications 001
+  ☐ Chapter 02 - 019 042 24 4 Creating your first test
+  ☐ Chapter 03 - 043 062 20 3 Testing rendered component output
+  ☐ Chapter 04 - 063 087 25 4 Testing component methods
+  ☐ Chapter 05 - 088 104 17 3 Testing events
+  ☐ Chapter 06 - 105 114 10 2 Understanding Vuex
+  ☐ Chapter 07 - 115 136 22 3 Testing Vuex
+  ☐ Chapter 08 - 137 148 12 2 Organizing tests with factory functions
+  ☐ Chapter 09 - 149 157 09 2 Understanding Vue Router
+  ☐ Chapter 10 - 158 174 17 3 Testing Vue Router
+  ☐ Chapter 11 - 175 192 18 3 Testing mixins and filters
+  ☐ Chapter 12 - 193 202 10 2 Writing Snapshot tests
+  ☐ Chapter 13 - 203 215 13 2 Testing server-side rendering
+  ☐ Chapter 14 - 216 249 34 5 Writing end-to-end tests
